@@ -1,0 +1,12 @@
+Testing SMTP in Python
+
+Dear {0},
+
+    Bacon ipsum dolor amet boudin est pig hamburger qui swine kevin ball tip. Salami strip steak pariatur filet mignon, porchetta velit meatball consectetur brisket ut excepteur boudin. Shankle in est beef sunt brisket ut tempor chicken burgdoggen cow. Pancetta ad tri-tip meatloaf. Ad chislic shank boudin pancetta.
+
+    Et meatloaf incididunt swine sunt. Ball tip alcatra occaecat quis, kevin frankfurter eiusmod. Dolore capicola velit venison tail jerky rump ham hock short loin enim shoulder chuck spare ribs. Cupim tail esse rump drumstick sirloin incididunt ipsum pork loin voluptate. Aute irure hamburger in ex pariatur shankle tri-tip landjaeger id cupim. Beef ribs officia flank, est laboris duis doner ball tip minim frankfurter tri-tip do reprehenderit.
+
+Sincerely,
+{1}
+
+P.S. If you're wondering where I got this sample text, check out Bacon Ipsum!
